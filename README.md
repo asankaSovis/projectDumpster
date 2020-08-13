@@ -13,4 +13,4 @@ The structure of the lists is made as:
   {name for the folder}|{location path for file/folder}|{your username}|{comments}
 If the location path contains a changing term, for example in the path 'C:\Users\username\AppData\Local\Temp'; the 'username' changes from computer to computer. Thus replace 'username' with '{username}' for convenience.
 an example is:
-  System temporary folder|C:\Users\<username>\AppData\Local\Temp|asankaSovis|Delete all files
+  System temporary folder|C:\Users\{username}\AppData\Local\Temp|asankaSovis|Delete all files
